@@ -1,3 +1,6 @@
+import React, { Component } from "react";
+import { FishTableRow } from "./FishTableRow";
+
 var FishTable = () => (
   <table>
     <tbody>
